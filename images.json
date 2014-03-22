@@ -8,4 +8,19 @@
   {"image": "7.png", "desc": "piccole navi (motobarche motoscafi) | lunghezza < 20mt | lato dritto"},
   {"image": "8.png", "desc": "piccole navi (motobarche motoscafi) | lunghezza < 20mt | di prora"},
   {"image": "9.png", "desc": "piccole navi (motobarche motoscafi) | lunghezza < 7mt | velocità inferiore 7kt // fanale di poppa di tutte le navi // nave alla fonda < 50mt"},
-  {"image": "10.png", "desc": "nave alla fonda lunghezza >= 50mt"}]
+  {"image": "10.png", "desc": "nave alla fonda lunghezza >= 50mt"},
+  {"image": "11.png", "desc": "nave e imbarcazione a vela, lato dritto (fanali in testa d'albero facoltativi)"},
+  {"image": "12.png", "desc": "nave e imbarcazione a vela, di prora (fanali in testa d'albero facoltativi)"},
+  {"image": "13.png", "desc": "nave e imbarcazione a vela, di prora (fanali in testa d'albero facoltativi)"},
+  {"image": "14.png", "desc": "nave e imbarcazione a vela, di lato sinistro (fanali in testa d'albero facoltativi)"},
+  {"image": "15.png", "desc": "nave e imbarcazione a vela, di poppa (fanali in testa d'albero facoltativi)"},
+  {"image": "16.png", "desc": "nave e imbarcazione a vela, lunghezza < 20mt, di prora (fanali in testa d'albero facoltativi)"},
+  {"image": "17.png", "desc": "rimorchiatore con rimorchio lungo meno di 200mt, lato dritto"},
+  {"image": "18.png", "desc": "rimorchiatore con rimorchio lungo meno di 200mt, di prora"},
+  {"image": "19.png", "desc": "rimorchiatore con rimorchio lungo meno di 200mt, lato sinistro"},
+  {"image": "20.png", "desc": "rimorchiatore, di poppa"},
+  {"image": "21.png", "desc": "rimorchiatore, con rimorchio lungo più di 200mt, lato dritto"},
+  {"image": "22.png", "desc": "rimorchiatore, con rimorchio lungo più di 200mt, di prora"},
+  {"image": "23.png", "desc": "rimorchiatore, con rimorchio lungo più di 200mt, lato sinistro"}
+
+]
