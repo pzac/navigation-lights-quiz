@@ -1,0 +1,11 @@
+[
+  {"image": "1.png", "desc": "nave a propulsione meccanica in navigazione | lunghezza >= 50mt | lato dritto"},
+  {"image": "2.png", "desc": "nave a propulsione meccanica in navigazione | lunghezza >= 50mt | di prora"},
+  {"image": "3.png", "desc": "nave a propulsione meccanica in navigazione | lunghezza >= 50mt | lato sinistro"},
+  {"image": "4.png", "desc": "nave a propulsione meccanica in navigazione | lunghezza < 50mt | lato dritto"},
+  {"image": "5.png", "desc": "nave a propulsione meccanica in navigazione | lunghezza < 50mt | di prora"},
+  {"image": "6.png", "desc": "nave a propulsione meccanica in navigazione | lunghezza < 50mt | lato sinistro"},
+  {"image": "7.png", "desc": "piccole navi (motobarche motoscafi) | lunghezza < 20mt | lato dritto"},
+  {"image": "8.png", "desc": "piccole navi (motobarche motoscafi) | lunghezza < 20mt | di prora"},
+  {"image": "9.png", "desc": "piccole navi (motobarche motoscafi) | lunghezza < 7mt | velocità inferiore 7kt // fanale di poppa di tutte le navi // nave alla fonda < 50mt"},
+  {"image": "10.png", "desc": "nave alla fonda lunghezza >= 50mt"}]
