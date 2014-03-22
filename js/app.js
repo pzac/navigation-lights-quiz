@@ -36,7 +36,8 @@
     };
 
     Quiz.prototype.setup_callbacks = function() {
-      return $(document).on('click', '#next', this.next);
+      $(document).on('click', '#next', this.next);
+      return $(document).on('keydown', this.next);
     };
 
     Quiz.prototype.next = function() {

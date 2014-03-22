@@ -20,6 +20,7 @@ class Quiz
 
   setup_callbacks: =>
     $(document).on 'click', '#next', @next
+    $(document).on 'keydown', @next
 
   next: =>
     if @waiting

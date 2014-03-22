@@ -1,3 +1,19 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
 #image_container {
-  border: 1px solid black;
-  padding: 2px; }
+  background: black; }
+  #image_container img {
+    display: block;
+    margin: 0 auto; }
+
+#controls {
+  background: #eeeeee;
+  height: 40px; }
+  #controls input {
+    float: left;
+    height: 40px; }
