@@ -57,7 +57,7 @@
 
   $(function() {
     var quiz;
-    return quiz = new Quiz('/images.json');
+    return quiz = new Quiz('images.json');
   });
 
 }).call(this);

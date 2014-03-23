@@ -34,4 +34,4 @@ class Quiz
 
 
 $ ->
-  quiz = new Quiz '/images.json'
+  quiz = new Quiz 'images.json'
