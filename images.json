@@ -22,5 +22,17 @@
   {"image": "21.png", "desc": "rimorchiatore, con rimorchio lungo più di 200mt, lato dritto"},
   {"image": "22.png", "desc": "rimorchiatore, con rimorchio lungo più di 200mt, di prora"},
   {"image": "23.png", "desc": "rimorchiatore, con rimorchio lungo più di 200mt, lato sinistro"}
+  {"image": "24.png", "desc": "nave con manovrabilità limitata, lato dritto"},
+  {"image": "25.png", "desc": "nave con manovrabilità limitata, di prora"},
+  {"image": "26.png", "desc": "nave con manovrabilità limitata, lato sinistro"},
+  {"image": "27.png", "desc": "nave con manovrabilità limitata, draga: verde lato libero, rosso ostruito"},
+  {"image": "28.png", "desc": "nave a cuscino d'aria, lato sinistro"},
+  {"image": "29.png", "desc": "nave a cuscino d'aria, di prora"},
+  {"image": "30.png", "desc": "nave che non può governare, lato dritto con abbrivo"},
+  {"image": "31.png", "desc": "nave che non può governare, di prora con abbrivo"},
+  {"image": "32.png", "desc": "nave che non può governare, di poppa con abbrivo / nave incagliata di prora o di poppa"},
+  {"image": "33.png", "desc": "nave che non può governare, ferma"},
+  {"image": "34.png", "desc": "nave incagliata, lunghezza < 50mt"},
+  {"image": "35.png", "desc": "nave incagliata, lunghezza >= 50mt"}
 
 ]
