@@ -30,6 +30,7 @@
       rnd_idx = Math.floor(Math.random() * data.length);
       item = this.data[rnd_idx];
       this.data.splice(rnd_idx, 1);
+      $("#image_container").removeClass("night day").addClass(item.type);
       $("#image").attr('src', "images/" + item.image);
       return $("#solution").html(item.desc).hide();
     };

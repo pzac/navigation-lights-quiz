@@ -14,6 +14,7 @@ class Quiz
     rnd_idx = Math.floor(Math.random() * data.length)
     item = @data[rnd_idx]
     @data.splice(rnd_idx, 1)
+    $("#image_container").removeClass("night day").addClass(item.type)
     $("#image").attr 'src', "images/#{item.image}"
     $("#solution").html(item.desc).hide()
 
