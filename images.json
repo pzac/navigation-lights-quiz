@@ -21,7 +21,7 @@
   {"image": "20.png", "desc": "rimorchiatore, di poppa"},
   {"image": "21.png", "desc": "rimorchiatore, con rimorchio lungo più di 200mt, lato dritto"},
   {"image": "22.png", "desc": "rimorchiatore, con rimorchio lungo più di 200mt, di prora"},
-  {"image": "23.png", "desc": "rimorchiatore, con rimorchio lungo più di 200mt, lato sinistro"}
+  {"image": "23.png", "desc": "rimorchiatore, con rimorchio lungo più di 200mt, lato sinistro"},
   {"image": "24.png", "desc": "nave con manovrabilità limitata, lato dritto"},
   {"image": "25.png", "desc": "nave con manovrabilità limitata, di prora"},
   {"image": "26.png", "desc": "nave con manovrabilità limitata, lato sinistro"},
@@ -33,6 +33,9 @@
   {"image": "32.png", "desc": "nave che non può governare, di poppa con abbrivo / nave incagliata di prora o di poppa"},
   {"image": "33.png", "desc": "nave che non può governare, ferma"},
   {"image": "34.png", "desc": "nave incagliata, lunghezza < 50mt"},
-  {"image": "35.png", "desc": "nave incagliata, lunghezza >= 50mt"}
+  {"image": "35.png", "desc": "nave incagliata, lunghezza >= 50mt"},
+  {"image": "36.png", "desc": "motopeschereccio a strascico, lato dritto"},
+  {"image": "37.png", "desc": "motopeschereccio a strascico, di prora"},
+  {"image": "38.png", "desc": "motopeschereccio a strascico, lato sinistro"}
 
 ]
