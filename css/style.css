@@ -5,15 +5,26 @@
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
+header {
+  background-color: #0080ff;
+  padding: 10px; }
+
 #image_container {
   background: black; }
   #image_container img {
     display: block;
     margin: 0 auto; }
 
-#controls {
+#solution_container {
   background: #eeeeee;
   height: 40px; }
-  #controls input {
-    float: left;
-    height: 40px; }
+  #solution_container #solution {
+    text-align: center;
+    padding: 10px;
+    font-weight: bold; }
+
+input {
+  display: block;
+  margin: 20px auto;
+  height: 40px;
+  width: 200px; }

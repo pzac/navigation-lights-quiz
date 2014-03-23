@@ -13,7 +13,6 @@
       this.play = __bind(this.play, this);
 
       this.start = __bind(this.start, this);
-      console.log('starting');
       this.json = json;
       this.setup_callbacks();
       this.start();
@@ -27,7 +26,7 @@
     Quiz.prototype.play = function(data) {
       var item, rnd_idx;
       this.data = data;
-      $("#next").val("Next (" + this.data.length + " left)");
+      $("#next").val("Solution");
       rnd_idx = Math.floor(Math.random() * data.length);
       item = this.data[rnd_idx];
       this.data.splice(rnd_idx, 1);
@@ -43,6 +42,7 @@
     Quiz.prototype.next = function() {
       if (this.waiting) {
         this.waiting = false;
+        $("#next").val("Next (" + this.data.length + " left)");
         return $("#solution").show();
       } else {
         this.waiting = true;

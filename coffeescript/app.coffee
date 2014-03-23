@@ -1,6 +1,5 @@
 class Quiz
   constructor: (json) ->
-    console.log 'starting'
     @json = json
     @setup_callbacks()
     @start()
@@ -11,7 +10,7 @@ class Quiz
 
   play: (data) =>
     @data = data
-    $("#next").val("Next (#{@data.length} left)")
+    $("#next").val("Solution")
     rnd_idx = Math.floor(Math.random() * data.length)
     item = @data[rnd_idx]
     @data.splice(rnd_idx, 1)
@@ -25,6 +24,7 @@ class Quiz
   next: =>
     if @waiting
       @waiting = false
+      $("#next").val("Next (#{@data.length} left)")
       $("#solution").show()
     else
       @waiting = true
