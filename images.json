@@ -36,6 +36,11 @@
   {"image": "35.png", "desc": "nave incagliata, lunghezza >= 50mt"},
   {"image": "36.png", "desc": "motopeschereccio a strascico, lato dritto"},
   {"image": "37.png", "desc": "motopeschereccio a strascico, di prora"},
-  {"image": "38.png", "desc": "motopeschereccio a strascico, lato sinistro"}
+  {"image": "38.png", "desc": "motopeschereccio a strascico, lato sinistro"},
+  {"image": "39.png", "desc": "motopeschereccio non a strascico, di prora senza abbrivo"},
+  {"image": "40.png", "desc": "motopeschereccio non a strascico, lato dritto con attrzzo oltre ml 150 lato fanale bianco"},
+  {"image": "41.png", "desc": "motopeschereccio non a strascico, lato sinistro"},
+  {"image": "42.png", "desc": "dragamine di prora"},
+  {"image": "43.png", "desc": "dragamine di poppa"}
 
 ]
